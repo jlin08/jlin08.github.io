@@ -1,0 +1,27 @@
+img {
+	border:2px solid black; height: 150px; width: 150px;
+}
+
+h1 {
+	color:red;
+}
+h2 {
+	border-buttom: 1px solid black;
+}
+a {
+	color: magenta;
+}
+li {
+	list-style-type: square;
+}
+
+a { 
+	color: red;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+.twitter {
+	color:darkblue;
+}
